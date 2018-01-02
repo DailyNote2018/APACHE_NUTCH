@@ -1,4 +1,4 @@
-# APACHE_NUTCH
+# APACHE_NUTCH VERSION 2.3.1
 
 
 ## 1. ./nutch inject urls
