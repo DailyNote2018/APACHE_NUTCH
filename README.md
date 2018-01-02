@@ -1,9 +1,9 @@
 # APACHE_NUTCH
 
 
-# Nutch inject urls
-# Nutch generate -topN 10
-# Nutch fetch -all
-# Nutch parse -all
-# Nutch updatedb -all
-# Nutch solrindex http://localhost:8982/solr/nutch -all
+## 1. ./nutch inject urls
+## 2. ./nutch generate -topN 10
+## 3. ./nutch fetch -all
+## 4. ./nutch parse -all
+## 5. ./nutch updatedb -all
+## 6. ./nutch solrindex http://localhost:8982/solr/nutch -all
